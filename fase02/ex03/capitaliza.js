@@ -1,6 +1,10 @@
-function captaliza(palavra) {
+   function capitaliza(palavra) {
     return (palavra.toUpperCase())
 }
+
+    
+
+
 
 
 

@@ -1,6 +1,8 @@
-function minusculo(Palavra){
-    return Palavra.substring(0,1).toLowerCase()+Palavra.substring(1)
+   function minusculo(palavra) {
+    return (palavra.charAt(0).toLowerCase())
 }
+console.log (minusculo("palavra"))
+    
 
 
 

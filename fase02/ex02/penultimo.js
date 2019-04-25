@@ -1,4 +1,4 @@
-function finais(palavra) {
-     return palavra.slice(-3)
+function penultimo(palavra) {
+     return palavra.slice(-2,-1)
  }
  

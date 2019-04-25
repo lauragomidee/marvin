@@ -1,32 +1,4 @@
- function finais(palavra) {
-     return palavra.substring(9,12)
- }
+function finais(palavra) {
+     return palavra.slice(-3)
+}
  
-
-    
-
-
-
-
-
-
-
-    
-
-    
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
